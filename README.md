@@ -12,7 +12,7 @@
 > * [10.통합 구현](https://github.com/nolru7/SMART-FACTORY2/tree/master/%ED%86%B5%ED%95%A9%EA%B5%AC%ED%98%84)
 > * [11.제품소프트웨어 패키징](https://github.com/nolru7/SMART-FACTORY2/blob/master/%EC%9D%B4%EC%84%9D%ED%9B%88.zip)
 > * [12.정보시스템 이행](https://github.com/nolru7/SMART-FACTORY2/blob/master/0122%EC%8B%9C%ED%97%98.pdf)
-> * [13.애플리케이션 테스트 수행]()
+> * [13.애플리케이션 테스트 수행](https://github.com/nolru7/SMART-FACTORY2/blob/master/0129.zip)
 > * [14.애플리케이션 테스트 관리]()
 > * [15.애플리케이션 배포]()
 > * [16.프로젝트]()
